@@ -27,12 +27,11 @@ Appen viser navnet mitt og en fun fact om meg selv.
 
 ---
 
-
 ## 🔎 React DevTools
 Jeg har brukt React DevTools for å inspisere komponent-treet.  
 Her ser vi `Intro`-komponenten med **props** (`name`, `funFact`) og **state** (`liked`):
 
-![React DevTools Screenshot](../intro_react.PNG)
+![React DevTools Screenshot](docs/intro_react.PNG)
 
 ---
 
